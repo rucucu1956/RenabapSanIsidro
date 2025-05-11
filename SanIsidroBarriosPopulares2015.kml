@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Barrios Populares - San Isidro</name>
+  <Style id="contorno-visible">
+    <LineStyle>
+      <color>ff0000ff</color> <!-- Rojo sólido -->
+      <width>4</width>
+    </LineStyle>
+    <PolyStyle>
+      <fill>0</fill> <!-- Sin relleno -->
+    </PolyStyle>
+    <LabelStyle>
+      <scale>1.2</scale>
+    </LabelStyle>
+  </Style>
+
+  <!-- ========== BARRIOS ========== -->
+
+  <!-- Cava -->
+  <Placemark>
+    <name>Cava</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.547871,-34.473689,0 -58.543957,-34.471840,0 -58.540388,-34.470164,0 
+            -58.537492,-34.472399,0 -58.539720,-34.473543,0 -58.539957,-34.473159,0 
+            -58.540046,-34.473070,0 -58.540094,-34.473038,0 -58.540342,-34.473181,0 
+            -58.540881,-34.472531,0 -58.543170,-34.473608,0 -58.543340,-34.473522,0 
+            -58.543927,-34.473796,0 -58.543887,-34.473849,0 -58.544028,-34.473918,0 
+            -58.544057,-34.473902,0 -58.546790,-34.475206,0 -58.547098,-34.474767,0 
+            -58.547352,-34.474420,0 -58.547871,-34.473689,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Nueva Esperanza -->
+  <Placemark>
+    <name>Nueva Esperanza</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Boulogne</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.560766,-34.513362,0 -58.561699,-34.512502,0 -58.561739,-34.512421,0 
+            -58.561652,-34.512368,0 -58.560834,-34.513025,0 -58.560691,-34.512885,0 
+            -58.559496,-34.513928,0 -58.559688,-34.514086,0 -58.559752,-34.514045,0 
+            -58.559771,-34.514031,0 -58.559763,-34.514018,0 -58.559922,-34.513912,0 
+            -58.559923,-34.513914,0 -58.560766,-34.513362,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Veinte de Junio -->
+  <Placemark>
+    <name>Veinte de Junio</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.548770,-34.474177,0 -58.547861,-34.473719,0 -58.547842,-34.473746,0 
+            -58.547037,-34.474875,0 -58.546804,-34.475199,0 -58.547813,-34.475681,0 
+            -58.548770,-34.474177,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Cava Chica -->
+  <Placemark>
+    <name>Cava Chica</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.544582,-34.472098,0 -58.545218,-34.471178,0 -58.542964,-34.470133,0 
+            -58.541205,-34.469283,0 -58.540529,-34.470162,0 -58.540930,-34.470366,0 
+            -58.541020,-34.470396,0 -58.543279,-34.471476,0 -58.544582,-34.472098,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- San Cayetano -->
+  <Placemark>
+    <name>San Cayetano</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.554168,-34.469014,0 -58.555081,-34.469432,0 -58.555097,-34.468695,0 
+            -58.555047,-34.468062,0 -58.554877,-34.468048,0 -58.554200,-34.467707,0 
+            -58.553890,-34.467219,0 -58.553833,-34.467197,0 -58.553450,-34.467715,0 
+            -58.553343,-34.467704,0 -58.551482,-34.466802,0 -58.551877,-34.466234,0 
+            -58.550953,-34.465828,0 -58.550790,-34.466012,0 -58.550599,-34.466248,0 
+            -58.550560,-34.466333,0 -58.550591,-34.466427,0 -58.550076,-34.467038,0 
+            -58.551046,-34.467444,0 -58.551115,-34.467520,0 -58.551939,-34.467927,0 
+            -58.552756,-34.468307,0 -58.553754,-34.468796,0 -58.554168,-34.469014,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Santa Ana -->
+  <Placemark>
+    <name>Santa Ana</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Boulogne</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.580416,-34.495369,0 -58.582640,-34.493530,0 -58.582344,-34.492623,0 
+            -58.579743,-34.494711,0 -58.580361,-34.495340,0 -58.580416,-34.495369,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Barrio Ferroviario Santa Rosa -->
+  <Placemark>
+    <name>Barrio Ferroviario Santa Rosa</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Boulogne Sur Mer</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.559726,-34.514065,0 -58.559682,-34.514099,0 -58.559726,-34.514133,0 
+            -58.559843,-34.514069,0 -58.560271,-34.514448,0 -58.561127,-34.513718,0 
+            -58.561408,-34.513966,0 -58.563789,-34.511896,0 -58.563085,-34.511353,0 
+            -58.561461,-34.512733,0 -58.560799,-34.513347,0 -58.560328,-34.513659,0 
+            -58.559726,-34.514065,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Uruguay -->
+  <Placemark>
+    <name>Uruguay</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.546661,-34.462483,0 -58.546968,-34.462106,0 -58.541659,-34.459551,0 
+            -58.540033,-34.458812,0 -58.539395,-34.459688,0 -58.542074,-34.460962,0 
+            -58.542201,-34.460802,0 -58.542717,-34.461037,0 -58.542865,-34.460866,0 
+            -58.543436,-34.461139,0 -58.543200,-34.461509,0 -58.546246,-34.462967,0 
+            -58.546358,-34.462784,0 -58.545329,-34.462258,0 -58.545526,-34.461933,0 
+            -58.546661,-34.462483,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Uspallata -->
+  <Placemark>
+    <name>Uspallata</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: San Isidro</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.562780,-34.472881,0 -58.563268,-34.472220,0 -58.562123,-34.471625,0 
+            -58.561659,-34.472327,0 -58.562780,-34.472881,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Vencedores -->
+  <Placemark>
+    <name>Vencedores</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: San Isidro</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.561192,-34.472093,0 -58.561348,-34.471939,0 -58.561182,-34.471873,0 
+            -58.561331,-34.471680,0 -58.561338,-34.471675,0 -58.561216,-34.471551,0 
+            -58.560839,-34.471382,0 -58.560776,-34.471484,0 -58.560695,-34.471473,0 
+            -58.560467,-34.471760,0 -58.561192,-34.472093,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Villa Ruedita -->
+  <Placemark>
+    <name>Villa Ruedita</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Boulogne Sur Mer</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.560342,-34.510429,0 -58.560788,-34.510904,0 -58.561022,-34.511079,0 
+            -58.561150,-34.511004,0 -58.561332,-34.511210,0 -58.561730,-34.510984,0 
+            -58.562020,-34.510747,0 -58.562184,-34.510869,0 -58.563600,-34.509767,0 
+            -58.563481,-34.509607,0 -58.563210,-34.509457,0 -58.562598,-34.509870,0 
+            -58.561797,-34.510491,0 -58.561095,-34.509841,0 -58.560342,-34.510429,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- El Ombú -->
+  <Placemark>
+    <name>El Ombú</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Boulogne Sur Mer</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.561262,-34.516796,0 -58.562216,-34.515984,0 -58.561473,-34.515389,0 
+            -58.560529,-34.516208,0 -58.560740,-34.516406,0 -58.561262,-34.516796,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <!-- Sauce -->
+  <Placemark>
+    <name>Sauce</name>
+    <description>Provincia: Buenos Aires | Municipio: San Isidro | Localidad: Beccar</description>
+    <styleUrl>#contorno-visible</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -58.550547,-34.466306,0 -58.550808,-34.465915,0 -58.548101,-34.464542,0 
+            -58.548141,-34.464478,0 -58.547144,-34.464028,0 -58.546074,-34.463477,0 
+            -58.545170,-34.464613,0 -58.549114,-34.466551,0 -58.549330,-34.466211,0 
+            -58.547549,-34.465370,0 -58.547677,-34.465265,0 -58.548128,-34.465488,0 
+            -58.548330,-34.465246,0 -58.550547,-34.466306,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+</Document>
+</kml>
